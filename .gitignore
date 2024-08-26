@@ -1,0 +1,15 @@
+# files
+.ipynb
+*.pyc
+
+# directories
+__pychache__/
+
+# macos
+.DS_Store/
+
+# vscode
+.vscode/
+
+# pycharm
+.idea/
